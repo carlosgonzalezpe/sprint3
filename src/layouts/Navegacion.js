@@ -8,7 +8,7 @@ function Navegacion() {
   return (
     <Navbar bg="light" expand="lg">
       <Container>
-        <Navbar.Brand as={NavLink} to={"/"}>PRODUCTO TEC </Navbar.Brand>
+        <Navbar.Brand as={NavLink} to={"/"}>TECNO STORE </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
